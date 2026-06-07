@@ -11,3 +11,14 @@ The Figures folder contains:
 - sample clean
 - sample polluted
 - workflow
+
+## Figures
+
+### Accuracy Graph
+![Accuracy](Figures/accuracy.png)
+
+### Loss Graph
+![Loss](Figures/loss.png)
+
+### Confusion Matrix
+![Confusion Matrix](Figures/confusion_matrix.png)
