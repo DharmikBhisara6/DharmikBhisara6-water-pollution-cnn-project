@@ -21,4 +21,4 @@ The Figures folder contains:
 ![Loss](Figures/Model-loss11.png)
 
 ### Confusion Matrix
-![Confusion Matrix](Figures/confusion Matrix 12.png)
+![Confusion Matrix](Figures/confusion.png)
