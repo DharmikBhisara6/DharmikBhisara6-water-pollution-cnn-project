@@ -47,12 +47,22 @@ The project includes:
 
 The project evaluates both CNN and MobileNetV2 models using validation accuracy, loss, confusion matrix, and classification metrics.
 
-## How to Run
+## Instructions for Running the Code
 
-1. Open the notebook in Google Colab.
-2. Upload the dataset ZIP file.
-3. Run all notebook cells sequentially.
-4. Review the generated graphs, confusion matrix, and evaluation results.
+1. Open the notebook file `Water_Pollution_CNN_Project1_Phase 2.ipynb` in Google Colab.
+2. Upload the dataset ZIP file (`training_vs_ideal_mapping.zip`) to the Colab environment.
+3. Run all notebook cells sequentially from top to bottom.
+4. The notebook will:
+
+   * Extract and preprocess the dataset
+   * Resize and normalize images
+   * Train the CNN model
+   * Evaluate model performance
+   * Generate accuracy and loss graphs
+   * Generate a confusion matrix and classification report
+   * Train and compare a MobileNetV2 transfer learning model
+5. Review the generated results, figures, and evaluation metrics.
+
 
 ## Author
 
