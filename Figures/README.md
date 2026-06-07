@@ -15,10 +15,10 @@ The Figures folder contains:
 ## Figures
 
 ### Accuracy Graph
-![Accuracy](Figures/accuracy.png)
+![Accuracy](Figures/Model-Accuracy11.png)
 
 ### Loss Graph
-![Loss](Figures/loss.png)
+![Loss](Figures/Model-loss11.png)
 
 ### Confusion Matrix
-![Confusion Matrix](Figures/confusion_matrix.png)
+![Confusion Matrix](Figures/confusion Matrix 12.png)
