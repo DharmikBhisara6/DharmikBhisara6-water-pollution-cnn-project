@@ -68,5 +68,5 @@ The project evaluates both CNN and MobileNetV2 models using validation accuracy,
 
 Dharmik Bhisara
 
-IU International University of Applied Sciences, Berlin
+UE International University of Applied Sciences, Potsdam
 
